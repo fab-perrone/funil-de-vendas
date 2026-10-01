@@ -1,0 +1,7 @@
+{
+  "name": "Funil de Vendas CRM",
+  "description": "Sistema de gestão comercial com funil de vendas em Kanban, gestão de vendedores e clientes integrada à Brasil API e Google Maps, e dashboard de desempenho da equipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
